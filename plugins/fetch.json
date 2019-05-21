@@ -1,0 +1,20 @@
+{
+    "cordova-plugin-call-number": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ihadeed/cordova-plugin-call-number",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-local-notification": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/katzer/cordova-plugin-local-notifications",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

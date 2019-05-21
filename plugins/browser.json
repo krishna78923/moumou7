@@ -1,0 +1,15 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-call-number": {
+            "PACKAGE_NAME": "com.gs.calc"
+        }
+    },
+    "dependent_plugins": {}
+}
